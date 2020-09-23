@@ -1,6 +1,6 @@
 ## App Overview
 
-This is a Nodejs Server providing the ability to fetch postsfrom typicode and send them to the client.
+This is a Nodejs Server providing the ability to fetch posts from typicode and send them to the client.
 
 ## Available Scripts
 
