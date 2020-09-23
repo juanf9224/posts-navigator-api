@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## App Overview
 
 This is a Nodejs Server providing the ability to fetch postsfrom typicode and send them to the client.
